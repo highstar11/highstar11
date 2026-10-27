@@ -1,10 +1,10 @@
-<h1 align="center">안녕하세요, 성장하고 싶은 개발자 김고성입니다 👋</h1>
+<h1>안녕하세요, 성장하고 싶은 개발자 김고성입니다 👋</h1>
 
-<p align="center">
+<p>
   사용자 경험을 최우선에 두고, 프론트엔드에서 넓게는 백엔드/DB까지 폭넓게 다루는 웹 개발자입니다.
 </p>
 
-<p align="center">
+<p>
   <a href="mailto:iamgosung@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-iamgosung@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
